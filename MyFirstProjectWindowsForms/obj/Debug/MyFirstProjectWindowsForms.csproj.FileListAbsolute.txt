@@ -1,0 +1,12 @@
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\bin\Debug\MyFirstProjectWindowsForms.exe.config
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\obj\Debug\MyFirstProjectWindowsForms.csprojResolveAssemblyReference.cache
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\obj\Debug\MyFirstProjectWindowsForms.Properties.Resources.resources
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\obj\Debug\MyFirstProjectWindowsForms.csproj.GenerateResource.Cache
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\bin\Debug\MyFirstProjectWindowsForms.exe
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\bin\Debug\MyFirstProjectWindowsForms.pdb
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\obj\Debug\MyFirstProjectWindowsForms.exe
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\obj\Debug\MyFirstProjectWindowsForms.pdb
+S:\Classwork\16.05.2015\WFA\MyFirstProjectWindowsForms\MyFirstProjectWindowsForms\obj\Debug\Calc_CSharp.Form1.resources
+S:\Classwork\16.05.2015\WFA\Calc_CSharp\MyFirstProjectWindowsForms\bin\Debug\MyFirstProjectWindowsForms.exe.config
+S:\Classwork\16.05.2015\WFA\Calc_CSharp\MyFirstProjectWindowsForms\obj\Debug\MyFirstProjectWindowsForms.exe
+S:\Classwork\16.05.2015\WFA\Calc_CSharp\MyFirstProjectWindowsForms\obj\Debug\MyFirstProjectWindowsForms.pdb
